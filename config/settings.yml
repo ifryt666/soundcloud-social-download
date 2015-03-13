@@ -1,13 +1,13 @@
 # Promotion title, eg. Share to Download
-title: Share to Download
+title: Like to Download
 
 # Competition description, eg. Share this track with your friends and get a free download.
-description: Share this track with your friends and get a free download.
+description: Like this page and get a free download.
 
 # SoundCloud URL of the track that will be streamed and offered as a download
 # You can create a new track at: http://soundcloud.com/tracks/new
 # Make sure to set it to Public, Streamable, and Not Downloadable.
-track: http://soundcloud.com/leemartin/test
+track: https://soundcloud.com/donkey-fallen/borgeous-invincible-donkey-fallen-remix
 
 # Default options used to display embedded player
 player:
@@ -26,18 +26,18 @@ player:
 header: Free Download
 
 # Tell the user what to do eg. Click below to share this track and get a free download.
-instructions: "Click below to share or digg this track and get a free download"
+instructions: "Like to this page and get a free download"
 
 # Add email submission as an alternative
-email: true
+email: false
 
 # Comma seperated list of services you will use
-services: "facebook,twitter,myspace,digg"
+services: "facebook"
 
 # Default options related to Facebook sharing
 facebook:
-  button: Share to Download # button text
-  header: Share this Track # popup header
+  button: Like to Download # button text
+  header: Like this page # popup header
   status: 'is downloading a free track from LINK' # default status
   submit: Share # submit button
 
